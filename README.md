@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Victor-M-S-Rodrigues07/Victor-M-S-Rodrigues07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on UNASP-SP.
@@ -10,4 +10,3 @@
 - 📫 How to reach me: LinkedIn - www.linkedin.com/in/victor-m-rodrigues
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite food is Strogonoff and I love books about science.
--->
