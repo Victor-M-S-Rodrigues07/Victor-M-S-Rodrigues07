@@ -1,4 +1,6 @@
-# Victor Rodrigues - Estudante de Engenharia da Computação | Desenvolvedor Full-Stack em Formação ⚙
+# Victor Rodrigues 
+
+### Estudante de Engenharia da Computação | Desenvolvedor Full-Stack em Formação ⚙
 
 ## Perfil Profissional 👨‍💻
 
@@ -30,7 +32,11 @@
 
 ### Back-End
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width = "100" height = "100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width = "100" height = "100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width = "100" height = "100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width = "100" height = "100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width = "100" height = "100"/>
+
+### Ferramentas:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width = "100" height = "100"/>
 
 ### Em progresso:
 
@@ -43,8 +49,7 @@
 
 <div>
   
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-M-S-Rodrigues07)](https://github.com/Victor-M-S-Rodrigues07/github-readme-stats)
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-M-S-Rodrigues07&show_icons=true&theme=cobalt) 
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor_m-s-rodrigues07)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
