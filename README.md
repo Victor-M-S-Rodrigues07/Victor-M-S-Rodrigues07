@@ -42,8 +42,10 @@
 <a href = "mailto:victorvicmr@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-0?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=%23D14836"></a>
 
 <div>
-
+  
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-M-S-Rodrigues07)](https://github.com/Victor-M-S-Rodrigues07/github-readme-stats)
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-M-S-Rodrigues07&show_icons=true&theme=cobalt)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-M-S-Rodrigues07&show_icons=true&theme=cobalt) 
+
+</div>
 
 <!-- Cobrinha comendo os commits ->
