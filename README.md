@@ -49,7 +49,7 @@
 
 <div>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor_m-s-rodrigues07)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-M-S-Rodrigues07)](https://github.com/Victor-M-S-Rodrigues07/github-readme-stats)
 
 </div>
 
