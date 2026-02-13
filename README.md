@@ -47,8 +47,9 @@
 <a href = "https://www.linkedin.com/in/victor-m-rodrigues/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0?style=for-the-badge&logo=linkedin&logoSize=auto&color=%231077b0&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a>
 <a href = "mailto:victorvicmr@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-0?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=%23D14836"></a>
 
-![Snake animation](https://github.com/Victor-M-S-Rodrigues07/Victor-M-S-Rodrigues07/blob/output/github-contribution-grid-snake.svg)
 
+
+<!-- ![Snake animation](https://github.com/Victor-M-S-Rodrigues07/Victor-M-S-Rodrigues07/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- <div>
   
