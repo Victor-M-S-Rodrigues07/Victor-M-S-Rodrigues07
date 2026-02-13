@@ -2,7 +2,7 @@
 
 ### Estudante de Engenharia da Computação | Desenvolvedor Full-Stack em Formação ⚙
 
-### Contatos:
+## 🌐 Contatos:
 
 <a href = "https://www.linkedin.com/in/victor-m-rodrigues/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0?style=for-the-badge&logo=linkedin&logoSize=auto&color=%231077b0&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a>
 <a href = "mailto:victorvicmr@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-0?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=%23D14836"></a>
@@ -11,19 +11,19 @@
 
 ### Front-End
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width = "100" height = "100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width = "100" height = "100">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "100" height = "100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width = "60" height = "60"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width = "60" height = "60">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "60" height = "60"/>
 
 ### Back-End
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width = "100" height = "100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width = "100" height = "100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width = "60" height = "60"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width = "60" height = "60"/>
 
-### Ferramentas:
+### Ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width = "100" height = "100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width = "60" height = "60"/>
 
-### Em progresso:
+### Em progresso
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width = "100" height = "100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width = "60" height = "60"/>
 
 ## 👨‍💻 Perfil Profissional
 
@@ -43,7 +43,7 @@
 
 <p> Também realizo formações oferecidas pelo Senado Federal e pela Câmara dos Deputados na área de Direito, legislação e proteção de dados.</p>
 
-## Interesses 📌
+## 📌 Interesses
 
 <p> Tenho interesse em tecnologia, engenharia de software, política, Direito, Matemática, Física e cultura em geral. Busco constante evolução intelectual e técnica, ampliando minha visão analítica e interdisciplinar. </p>
 
