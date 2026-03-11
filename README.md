@@ -1,7 +1,14 @@
-# 💫 Sobre Mim:
+# 💫 Sobre Mim
 Sou estudante de Engenharia da Computação, atualmente no 5º semestre, com desempenho acadêmico consistente e foco em excelência técnica. Tenho sólida base em: Lógica de programação, Programação Orientada a Objetos, Cálculo e Fundamentos Matemáticos, Física e Fundamentos da Engenharia e Estruturas de Dados. Atualmente direciono minha formação para Desenvolvimento Full-Stack, buscando consolidar competências em Front-End e Back-End, com ênfase na construção de aplicações bem estruturadas. 
 
 Complemento minha formação acadêmica com cursos especializados na área de desenvolvimento de software, com foco em aplicações práticas e boas práticas da engenharia. Também realizo formações oferecidas pelo Senado Federal e pela Câmara dos Deputados na área de Direito, legislação e proteção de dados. 📝
+
+# 🌐 Socials
+
+<a href = "https://www.linkedin.com/in/victor-m-rodrigues/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0?style=for-the-badge&logoColor=%23FFFFFF&color=%230077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a>
+<a href="https://judge.beecrowd.com/pt/profile/1067971"> <img alt="Static Badge" src="https://img.shields.io/badge/Beecrown-0?style=for-the-badge&color=%23C628FF&link=https%3A%2F%2Fjudge.beecrowd.com%2Fpt%2Fprofile%2F1067971"> </a>
+<a href = "mailto:victorvicmr@gmail"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-0?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&color=%23EA4335&link=mailto%3Avictorvicmr%40gmail.com"></a>
+<a href = "https://stackoverflow.com/users/32479279/victor-rodrigues?tab=profile"><img alt="Static Badge" src="https://img.shields.io/badge/Stack_Overflow-0?style=for-the-badge&logo=stackoverflow&logoColor=%23FFFFFF&color=%23F58025&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a>
 
 # 💻 Tech Stack
 
@@ -17,14 +24,6 @@ Complemento minha formação acadêmica com cursos especializados na área de de
 ![](https://github-readme-stats.vercel.app/api?username=Victor-M-S-Rodrigues07&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Victor-M-S-Rodrigues07&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-M-S-Rodrigues07&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-# 🌐 Socials:
-
-<a href = "https://www.linkedin.com/in/victor-m-rodrigues/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0?style=for-the-badge&logoColor=%23FFFFFF&color=%230077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a>
-<a href="https://judge.beecrowd.com/pt/profile/1067971"> <img alt="Static Badge" src="https://img.shields.io/badge/Beecrown-0?style=for-the-badge&color=%23C628FF&link=https%3A%2F%2Fjudge.beecrowd.com%2Fpt%2Fprofile%2F1067971"> </a>
-<a href = "mailto:victorvicmr@gmail"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-0?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&color=%23EA4335&link=mailto%3Avictorvicmr%40gmail.com"></a>
-<a href = "https://stackoverflow.com/users/32479279/victor-rodrigues?tab=profile"><img alt="Static Badge" src="https://img.shields.io/badge/Stack_Overflow-0?style=for-the-badge&logo=stackoverflow&logoColor=%23FFFFFF&color=%23F58025&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a>
-
 ![](https://github-profile-trophy.vercel.app/?username=Victor-M-S-Rodrigues07&theme=merko&no-frame=true&no-bg=false&margin-w=4)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
