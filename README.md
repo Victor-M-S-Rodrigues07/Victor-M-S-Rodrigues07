@@ -3,14 +3,20 @@ Sou estudante de Engenharia da Computação, atualmente no 5º semestre, com des
 
 Complemento minha formação acadêmica com cursos especializados na área de desenvolvimento de software, com foco em aplicações práticas e boas práticas da engenharia. Também realizo formações oferecidas pelo Senado Federal e pela Câmara dos Deputados na área de Direito, legislação e proteção de dados. 📝
 
-# 🌐 Socials
+<div align="center">
+  
+# 🌐 Socials 🌐
 
 <a href = "https://www.linkedin.com/in/victor-m-rodrigues/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0?style=for-the-badge&logoColor=%23FFFFFF&color=%230077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a>
 <a href="https://judge.beecrowd.com/pt/profile/1067971"> <img alt="Static Badge" src="https://img.shields.io/badge/Beecrown-0?style=for-the-badge&color=%23C628FF&link=https%3A%2F%2Fjudge.beecrowd.com%2Fpt%2Fprofile%2F1067971"> </a>
 <a href = "mailto:victorvicmr@gmail"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-0?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&color=%23EA4335&link=mailto%3Avictorvicmr%40gmail.com"></a>
 <a href = "https://stackoverflow.com/users/32479279/victor-rodrigues?tab=profile"><img alt="Static Badge" src="https://img.shields.io/badge/Stack_Overflow-0?style=for-the-badge&logo=stackoverflow&logoColor=%23FFFFFF&color=%23F58025&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a>
 
-# 💻 Tech Stack
+</div>
+
+<div align="center">
+
+# 💻 Tech Stack ⚡
 
 ![c](https://img.shields.io/badge/C-0?style=for-the-badge&logo=c&logoColor=%23FFFFFF&color=%23A8B9CC)
 ![JavaSript](https://img.shields.io/badge/JavaScript-0?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF&color=%23F7DF1E)
@@ -21,11 +27,14 @@ Complemento minha formação acadêmica com cursos especializados na área de de
 ![Git](https://img.shields.io/badge/Git-0?style=for-the-badge&logo=git&logoColor=%23FFFFFF&color=%23F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0?style=for-the-badge&logo=github&logoColor=%23FFFFFF&color=%23181717)
 
-![](https://github-readme-stats.vercel.app/api?username=Victor-M-S-Rodrigues07&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Victor-M-S-Rodrigues07&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-M-S-Rodrigues07&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=Victor-M-S-Rodrigues07&theme=merko&no-frame=true&no-bg=false&margin-w=4)
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![snake gif](https://github.com/Victor-M-S-Rodrigues07/Victor-M-S-Rodrigues07/blob/output/github-snake-dark.svg)
 
-<!-- ![Snake animation](https://github.com/Victor-M-S-Rodrigues07/Victor-M-S-Rodrigues07/blob/output/github-contribution-grid-snake.svg) -->
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=Victor-M-S-Rodrigues07&theme=merko&hide_border=false&include_all_commits=true&count_private=false) 
+
+![](https://nirzak-streak-stats.vercel.app/?user=Victor-M-S-Rodrigues07&theme=merko&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-M-S-Rodrigues07&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact) ![](https://github-profile-trophy.vercel.app/?username=Victor-M-S-Rodrigues07&theme=merko&no-frame=true&no-bg=false&margin-w=4) ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
