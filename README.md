@@ -8,6 +8,7 @@ Complemento minha formação acadêmica com cursos especializados na área de de
 # 🌐 Socials 🌐
 
 <a href = "https://www.linkedin.com/in/victor-m-rodrigues/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0?style=for-the-badge&logoColor=%23FFFFFF&color=%230077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a>
+<a href = "https://cursos.alura.com.br/user/victorvicmr"><img alt="Static Badge" src="https://img.shields.io/badge/Alura-0?style=for-the-badge&color=%23100D36"></a>
 <a href="https://judge.beecrowd.com/pt/profile/1067971"> <img alt="Static Badge" src="https://img.shields.io/badge/Beecrown-0?style=for-the-badge&color=%23C628FF&link=https%3A%2F%2Fjudge.beecrowd.com%2Fpt%2Fprofile%2F1067971"> </a>
 <a href = "mailto:victorvicmr@gmail"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-0?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&color=%23EA4335&link=mailto%3Avictorvicmr%40gmail.com"></a>
 <a href = "https://stackoverflow.com/users/32479279/victor-rodrigues?tab=profile"><img alt="Static Badge" src="https://img.shields.io/badge/Stack_Overflow-0?style=for-the-badge&logo=stackoverflow&logoColor=%23FFFFFF&color=%23F58025&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a>
