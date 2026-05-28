@@ -22,6 +22,7 @@ Complemento minha formação acadêmica com cursos especializados na área de de
 ![JavaSript](https://img.shields.io/badge/JavaScript-0?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF&color=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-0?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&color=%23E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0?style=for-the-badge&logo=css&logoColor=%23FFFFFF&color=%230022FF)
+![Figma](https://img.shields.io/badge/Figma-0?style=for-the-badge&logo=figma&logoColor=white&color=%2305C7F2)
 ![Python](https://img.shields.io/badge/Python-0?style=for-the-badge&logo=python&logoColor=%23FFFFFF&color=%233776AB)
 ![Java](https://img.shields.io/badge/Java-0?style=for-the-badge&logoColor=%23FFFFFF&color=%23FF1D00)
 ![Git](https://img.shields.io/badge/Git-0?style=for-the-badge&logo=git&logoColor=%23FFFFFF&color=%23F05032)
