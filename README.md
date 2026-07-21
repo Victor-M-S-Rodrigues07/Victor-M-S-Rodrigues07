@@ -1,5 +1,5 @@
-# 💫 Sobre Mim
-Sou estudante de Engenharia da Computação, atualmente no 5º semestre, com desempenho acadêmico consistente e foco em excelência técnica. Tenho sólida base em: Lógica de programação, Programação Orientada a Objetos, Cálculo e Fundamentos Matemáticos, Física e Fundamentos da Engenharia e Estruturas de Dados. Atualmente direciono minha formação para Desenvolvimento Full-Stack, buscando consolidar competências em Front-End e Back-End, com ênfase na construção de aplicações bem estruturadas. 
+# <h1 align = "center"> 💫 Sobre Mim 💫 </h1>
+Sou estudante de **Engenharia da Computação**, atualmente no 6º semestre, com desempenho acadêmico consistente (RE: 9.2) e foco em excelência técnica. Tenho sólida base em: Lógica de programação, Programação Orientada a Objetos, Cálculo e Fundamentos Matemáticos, Física e Fundamentos da Engenharia e Estruturas de Dados. Atualmente direciono minha formação para Desenvolvimento Full-Stack, buscando consolidar competências em Front-End e Back-End, com ênfase na construção de aplicações bem estruturadas. 
 
 Complemento minha formação acadêmica com cursos especializados na área de desenvolvimento de software, com foco em aplicações práticas e boas práticas da engenharia. Também realizo formações oferecidas pelo Senado Federal e pela Câmara dos Deputados na área de Direito, legislação e proteção de dados. 📝
 
@@ -9,8 +9,8 @@ Complemento minha formação acadêmica com cursos especializados na área de de
 
 <a href = "https://www.linkedin.com/in/victor-m-rodrigues/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0?style=for-the-badge&logoColor=%23FFFFFF&color=%230077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a>
 <a href = "https://cursos.alura.com.br/user/victorvicmr"><img alt="Static Badge" src="https://img.shields.io/badge/Alura-0?style=for-the-badge&color=%23100D36"></a>
-<a href="https://judge.beecrowd.com/pt/profile/1067971"> <img alt="Static Badge" src="https://img.shields.io/badge/Beecrown-0?style=for-the-badge&color=%23C628FF&link=https%3A%2F%2Fjudge.beecrowd.com%2Fpt%2Fprofile%2F1067971"> </a>
 <a href = "mailto:victorvicmr@gmail"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-0?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&color=%23EA4335&link=mailto%3Avictorvicmr%40gmail.com"></a>
+<a href="https://judge.beecrowd.com/pt/profile/1067971"> <img alt="Static Badge" src="https://img.shields.io/badge/Beecrown-0?style=for-the-badge&color=%23C628FF&link=https%3A%2F%2Fjudge.beecrowd.com%2Fpt%2Fprofile%2F1067971"> </a>
 <a href = "https://stackoverflow.com/users/32479279/victor-rodrigues?tab=profile"><img alt="Static Badge" src="https://img.shields.io/badge/Stack_Overflow-0?style=for-the-badge&logo=stackoverflow&logoColor=%23FFFFFF&color=%23F58025&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a>
 
 </div>
@@ -21,14 +21,19 @@ Complemento minha formação acadêmica com cursos especializados na área de de
 
 ![c](https://img.shields.io/badge/C-0?style=for-the-badge&logo=c&logoColor=%23FFFFFF&color=%23A8B9CC)
 ![JavaSript](https://img.shields.io/badge/JavaScript-0?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF&color=%23F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-0?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&color=%23E34F26)
-![CSS](https://img.shields.io/badge/CSS-0?style=for-the-badge&logo=css&logoColor=%23FFFFFF&color=%230022FF)
+![HyperText Markup Language](https://img.shields.io/badge/HTML-0?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&color=%23E34F26)
+![Cascading Style Sheets](https://img.shields.io/badge/CSS-0?style=for-the-badge&logo=css&logoColor=%23FFFFFF&color=%230022FF)
 ![Figma](https://img.shields.io/badge/Figma-0?style=for-the-badge&logo=figma&logoColor=white&color=%2305C7F2)
 ![Python](https://img.shields.io/badge/Python-0?style=for-the-badge&logo=python&logoColor=%23FFFFFF&color=%233776AB)
 ![Jupiter Notebook](https://img.shields.io/badge/Jupiter_Notebook-0?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%23F27329&color=%23F27329)
+![Structured Query Language](https://img.shields.io/badge/SQL-0?style=for-the-badge&logo=sqlite&logoColor=White&label=Coming%20Soon&color=DB7533)
 ![Java](https://img.shields.io/badge/Java-0?style=for-the-badge&logoColor=%23FFFFFF&color=%23FF1D00)
 ![Git](https://img.shields.io/badge/Git-0?style=for-the-badge&logo=git&logoColor=%23FFFFFF&color=%23F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0?style=for-the-badge&logo=github&logoColor=%23FFFFFF&color=%23181717)
+![Excel](https://img.shields.io/badge/Excel-0?style=for-the-badge&logoColor=White&color=157845)
+![Word](https://img.shields.io/badge/Word-0?style=for-the-badge&logoColor=White&color=11468C)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-0?style=for-the-badge&logoColor=White&color=ED5346)
+![Power Bussines Inteligence](https://img.shields.io/badge/Power_BI-0?style=for-the-badge&logoColor=White&label=Coming%20Soon&color=F5D755)
 
 </div>
 
