@@ -24,12 +24,16 @@ Complemento minha formação acadêmica com cursos especializados na área de de
 ![HyperText Markup Language](https://img.shields.io/badge/HTML-0?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&color=%23E34F26)
 ![Cascading Style Sheets](https://img.shields.io/badge/CSS-0?style=for-the-badge&logo=css&logoColor=%23FFFFFF&color=%230022FF)
 ![Figma](https://img.shields.io/badge/Figma-0?style=for-the-badge&logo=figma&logoColor=white&color=%2305C7F2)
+
 ![Python](https://img.shields.io/badge/Python-0?style=for-the-badge&logo=python&logoColor=%23FFFFFF&color=%233776AB)
 ![Jupiter Notebook](https://img.shields.io/badge/Jupiter_Notebook-0?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%23F27329&color=%23F27329)
-![Structured Query Language](https://img.shields.io/badge/SQL-0?style=for-the-badge&logo=sqlite&logoColor=White&label=Coming%20Soon&color=DB7533)
 ![Java](https://img.shields.io/badge/Java-0?style=for-the-badge&logoColor=%23FFFFFF&color=%23FF1D00)
+
+![Structured Query Language](https://img.shields.io/badge/SQL-0?style=for-the-badge&logo=sqlite&logoColor=White&label=Coming%20Soon&color=DB7533)
+
 ![Git](https://img.shields.io/badge/Git-0?style=for-the-badge&logo=git&logoColor=%23FFFFFF&color=%23F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0?style=for-the-badge&logo=github&logoColor=%23FFFFFF&color=%23181717)
+
 ![Excel](https://img.shields.io/badge/Excel-0?style=for-the-badge&logoColor=White&color=157845)
 ![Word](https://img.shields.io/badge/Word-0?style=for-the-badge&logoColor=White&color=11468C)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-0?style=for-the-badge&logoColor=White&color=ED5346)
